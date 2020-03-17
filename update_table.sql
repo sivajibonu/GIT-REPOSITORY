@@ -1,0 +1,1 @@
+update emp6 set ename='SIVAJI' where empno=7369;

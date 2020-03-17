@@ -1,1 +1,3 @@
-create table emp5 as select * from EMP;
+drop table emp6 ;
+
+create table emp6 as select * from EMP;
